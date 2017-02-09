@@ -1,0 +1,14 @@
+h3 {
+  color: #e2f442;
+}
+
+.jumbotron {
+  background-color: rgba(215, 215, 215, 0.5);
+}
+
+body {
+  background-image: url("http://www.popsci.com/sites/popsci.com/files/styles/large_1x_/public/rtx1b5ct.jpg");
+  background-size: cover;
+  background-color: black;
+  color: #E6DEDC
+}
